@@ -1,0 +1,19 @@
+body{
+    background: burlywood;
+    color: crimson;
+}
+.heading{
+ width: 80%;
+ font-size: 22px;
+}
+.name_objects{
+    color: darkgreen;
+}
+#camera{
+    border: 2px dashed deepskyblue;
+    width: 350px;
+    height: 300px;
+}
+#result_object_name , #result_object_accuracy{
+    color: firebrick;
+}
